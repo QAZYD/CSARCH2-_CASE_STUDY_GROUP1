@@ -1,13 +1,13 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 1
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S21 
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Ambata, Simon Luis
+- Cubarrubias, Dion Mel
+- DURAL, Jandriel 
+- JAIME, Dlareinnej Jherby
+- Paule, Mikael Angelo
 
 ---
 
@@ -90,4 +90,5 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
