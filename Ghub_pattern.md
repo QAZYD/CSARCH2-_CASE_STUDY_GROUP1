@@ -24,16 +24,16 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/gts3PJ
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | intel Core i5-4690 3.5 GHz Quad-Core Processor   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
+| CPU             | intel Core i5-4690 3.5 GHz Quad-Core Processor   | 52$             | ...   |
+| CPU Cooler      | Thermaltake Gravity i2 31.34 CFM CPU Cooler   | 12.78$             | ...   |
+| Motherboard     | ASRock H81 Pro BTC ATX LGA1150 Motherboard   | 59.99$             | musrt update bios so that it can be compatible with the cpu  |
+| RAM             | Crucial CT102464BD160B 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory   | 13.40$             | ...   |
+| Storage 1       | Silicon Power A55 256 GB 2.5" Solid State Drive| 17.79$            | ...   |
 | Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
+| Graphics Card   | Zotac ZT-71115-20L GeForce GT 730 4 GB Video Card   | 79.99$            | ...   |
+| Power Supply    | MSI MAG A550BN 550 W 80+ Bronze Certified ATX Power Supply   | 54.99$             | ...   |
+| Case            | Zalman T8 ATX Mid Tower Case   | 42.98$             | ...   |
+| Case Fans       | ARCTIC P14 72.8 CFM 140 mm Fan  | 10.99$             | ...   |
 | **Total**       |       | **XXX USD/Php**     |       |
 
 ---
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
