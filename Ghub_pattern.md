@@ -24,7 +24,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/gts3PJ
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
+| CPU             | intel Core i5-4690 3.5 GHz Quad-Core Processor   | ...             | ...   |
 | CPU Cooler      | ...   | ...             | ...   |
 | Motherboard     | ...   | ...             | ...   |
 | RAM             | ...   | ...             | ...   |
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
