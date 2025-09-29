@@ -34,7 +34,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/gts3PJ
 | Power Supply    | MSI MAG A550BN 550 W 80+ Bronze Certified ATX Power Supply   | 54.99$             | ...   |
 | Case            | Zalman T8 ATX Mid Tower Case   | 42.98$             | ...   |
 | Case Fans       | ARCTIC P14 72.8 CFM 140 mm Fan  | 10.99$             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| **Total**       |       | 344.91$    |       |
 
 ---
 
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
