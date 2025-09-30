@@ -68,10 +68,16 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
+- **Budget Limit**: ₱20,000  
+- **Final Total**: ₱19,800 
 - ✅ Within budget / ❌ Over budget  
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+
+  From the cost and budget perspective, our findings for the international draft build using PCPartPicker, garnered around $344.91 (~ ₱19,800), which served as our baseline estimate. However, there's a big transition when it comes to our local Manila build findings as the prices were generally higher due to import costs, limited stocks, and vendor markups.
+
+This lead to making trade-offs in choosing the components such as opting for higher-wattage PSU for future GPU upgrades while limiting RAM and SSD capacity to maintain affordability. From this, we learned that international builds appear cheaper while going for local introduces challenges that changes the perspective of price. 
+
+Despite this, our final build remained within the assigned budget, by strategically selecting components that balanced performance and practical cost for an entry-level GPU, a mid-range processor, and locally available storage options.
 
 ---
 
@@ -89,6 +95,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
