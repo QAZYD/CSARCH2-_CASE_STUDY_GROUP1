@@ -14,6 +14,7 @@
 ## 1. Introduction
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+  The target pc build is a budget build that will be used for light gaming with a resolution of 720p and it is also viable for general web browsing and watching videos.
 
 ---
 
@@ -90,6 +91,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
