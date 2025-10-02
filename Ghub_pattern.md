@@ -12,7 +12,7 @@
 ---
 
 ## 1. Introduction
-  The target pc build is a budget build that will be used for light gaming with a resolution of 720p and it is also viable for general web browsing and watching videos. The build is constrait to small budget of 20,000Php which limits the options to pick from so before even starting the build compromise is an expected outcome for the build, cheaper parts will be used due to the fact that they are cheap and satisfy the requirements rather than an actual desired part. 
+  The target pc build is a budget build that will be used for light gaming with a resolution of 720p and it is also viable for general web browsing and watching videos. The build is constrait to small budget of 20,000Php which limits the options to pick from so before even starting the build compromise is an expected outcome for the build, cheaper parts will be used due to the fact that they are cheap and satisfy the requirements rather than an actual desired part.
 
 ---
 
@@ -44,7 +44,7 @@ Google spreadsheet link: _________
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
+| CPU             | INTEL CORE I3 14100F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)  | https://www.pcworth.com/product/c4d6d9f5ad7c?slug=intel-core-i3-14100f-lga1700-with-intel-laminar-rm1-cooler-boxed | ...         | Socket LGA1700 compatible with B760M |
 | CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
 | Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
 | RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
@@ -61,9 +61,6 @@ Google spreadsheet link: _________
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
 Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
 
 ---
 
@@ -95,6 +92,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
