@@ -44,9 +44,9 @@ Google spreadsheet link: _________
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | INTEL CORE I3 14100F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)  | https://www.pcworth.com/product/c4d6d9f5ad7c?slug=intel-core-i3-14100f-lga1700-with-intel-laminar-rm1-cooler-boxed | ...         | Socket LGA1700 compatible with B760M |
+| CPU             | INTEL CORE I3 14100F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)  | https://www.pcworth.com/product/c4d6d9f5ad7c?slug=intel-core-i3-14100f-lga1700-with-intel-laminar-rm1-cooler-boxed | ₱5,195.00        | Socket LGA1700 compatible with B760M |
 | CPU Cooler      |   INTEL CORE I3 14100F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)  | https://www.pcworth.com/product/c4d6d9f5ad7c?slug=intel-core-i3-14100f-lga1700-with-intel-laminar-rm1-cooler-boxed    | ...         | stock cooler, no budget for dedicated cooler               |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
+| Motherboard     | COLORFUL H610M-E M.2 V20 DDR4 MATX LGA1700   | https://www.pcworth.com/product/330e3401f4c6?slug=colorful-h610m-e-m2-v20-ddr4-matx-lga1700 |        |                 |
 | RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
 | Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
 | Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
@@ -92,6 +92,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
