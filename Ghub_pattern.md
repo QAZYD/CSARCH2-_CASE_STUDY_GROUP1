@@ -49,9 +49,8 @@ Google spreadsheet link: _________
 | Motherboard     | COLORFUL H610M-E M.2 V20 DDR4 MATX LGA1700   | https://www.pcworth.com/product/330e3401f4c6?slug=colorful-h610m-e-m2-v20-ddr4-matx-lga1700 |    ₱3,685.00    |                 |
 | RAM             |PATRIOT SIGNATURE LINE PREMIUM NON-RGB BLACK 8GBX1=8GB 3200MHZ DDR4  | https://www.pcworth.com/product/ba58b88762da?slug=patriot-signature-line-premium-non-rgb-black-8gbx18gb-3200mhz-ddr4 | 1,395.00 * 2        | DDR5-5200 CL40, 2x8GB                |
 | Storage 1 (SSD) | LEXAR NM610 PRO NVME 500GB GEN 3   | https://www.pcworth.com/product/15ac9b9821eb?slug=lexar-nm610-pro-nvme-500gb-gen-3| ₱1,995.00     | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             |
-ASUS GeForce® GT 730 2GB GDDR5 64-bit Graphics Card   |https://pcx.com.ph/collections/graphics-cards/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card   | ₱3,528.00      | Requires 2×8-pin PCIe, PSU supports  |
+| Storage 2 (HDD) | ...   |   | ...         |             |
+| GPU             |ASUS GeForce® GT 730 2GB GDDR5 64-bit Graphics Card   |https://pcx.com.ph/collections/graphics-cards/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card   | ₱3,528.00      | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | MSI MAG A500N-H 500W ATX TRUE RATED NON MODULAR POWER SUPPLY   | https://www.pcworth.com/product/81c7cfa1b092?slug=msi-mag-a500n-h-500w-atx-true-rated-non-modular-power-supply   | ₱1,695.00       | 650W, 80+ Bronze                     |
 | Case            |CVS 2506 COMPUTER CASE BLACK WITH 700W PSU MATX NO FANS  | [VillMan](link)    |₱745.00     | ATX Mid-Tower                        |
 | Case Fans       |COOLMAN 120MM CASE FAN ALL BLACK  |https://www.pcworth.com/product/baa1890d4926?slug=coolman-120mm-case-fan-all-black | ₱105.00 * 3 | 120mm, 3-pin                         |
@@ -93,6 +92,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
