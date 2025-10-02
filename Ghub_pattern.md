@@ -52,7 +52,7 @@ Google spreadsheet link: _________
 | Storage 2 (HDD) | ...   |   | ...         |             |
 | GPU             |ASUS GeForce® GT 730 2GB GDDR5 64-bit Graphics Card   |https://pcx.com.ph/collections/graphics-cards/products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card   | ₱3,528.00      | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | MSI MAG A500N-H 500W ATX TRUE RATED NON MODULAR POWER SUPPLY   | https://www.pcworth.com/product/81c7cfa1b092?slug=msi-mag-a500n-h-500w-atx-true-rated-non-modular-power-supply   | ₱1,695.00       | 650W, 80+ Bronze                     |
-| Case            |CVS 2506 COMPUTER CASE BLACK WITH 700W PSU MATX NO FANS  | [VillMan](link)    |₱745.00     | ATX Mid-Tower                        |
+| Case            |CVS 2506 COMPUTER CASE BLACK WITH 700W PSU MATX NO FANS  | https://www.pcworth.com/product/687f4f48a353?slug=cvs-2506-computer-case-black-with-700w-psu-matx-no-fans    |₱745.00     | ATX Mid-Tower                        |
 | Case Fans       |COOLMAN 120MM CASE FAN ALL BLACK  |https://www.pcworth.com/product/baa1890d4926?slug=coolman-120mm-case-fan-all-black | ₱105.00 * 3 | 120mm, 3-pin                         |
 | **Total**       |       |                    | 19,948| Within budget                        |
 
@@ -92,6 +92,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
