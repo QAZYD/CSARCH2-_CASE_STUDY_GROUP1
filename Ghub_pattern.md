@@ -46,9 +46,9 @@ Google spreadsheet link: _________
 |-----------------|-------|--------------------|-------------|--------------------------------------|
 | CPU             | INTEL CORE I3 14100F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)  | https://www.pcworth.com/product/c4d6d9f5ad7c?slug=intel-core-i3-14100f-lga1700-with-intel-laminar-rm1-cooler-boxed | ₱5,195.00        | Socket LGA1700 compatible with B760M |
 | CPU Cooler      |   INTEL CORE I3 14100F (LGA1700) WITH INTEL LAMINAR RM1 COOLER (BOXED)  | https://www.pcworth.com/product/c4d6d9f5ad7c?slug=intel-core-i3-14100f-lga1700-with-intel-laminar-rm1-cooler-boxed    | ...         | stock cooler, no budget for dedicated cooler               |
-| Motherboard     | COLORFUL H610M-E M.2 V20 DDR4 MATX LGA1700   | https://www.pcworth.com/product/330e3401f4c6?slug=colorful-h610m-e-m2-v20-ddr4-matx-lga1700 |        |                 |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
+| Motherboard     | COLORFUL H610M-E M.2 V20 DDR4 MATX LGA1700   | https://www.pcworth.com/product/330e3401f4c6?slug=colorful-h610m-e-m2-v20-ddr4-matx-lga1700 |    ₱3,685.00    |                 |
+| RAM             |PATRIOT SIGNATURE LINE PREMIUM NON-RGB BLACK 8GBX1=8GB 3200MHZ DDR4  | https://www.pcworth.com/product/ba58b88762da?slug=patriot-signature-line-premium-non-rgb-black-8gbx18gb-3200mhz-ddr4 | 1,395.00 * 2        | DDR5-5200 CL40, 2x8GB                |
+| Storage 1 (SSD) | LEXAR NM610 PRO NVME 500GB GEN 3   | https://www.pcworth.com/product/15ac9b9821eb?slug=lexar-nm610-pro-nvme-500gb-gen-3| ₱1,995.00     | NVMe M.2 slot supported              |
 | Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
 | GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
@@ -92,6 +92,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
