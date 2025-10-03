@@ -54,14 +54,21 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1DqYhfTL8zho84sS
 | PSU             | MSI MAG A500N-H 500W ATX TRUE RATED NON MODULAR POWER SUPPLY   | https://www.pcworth.com/product/81c7cfa1b092?slug=msi-mag-a500n-h-500w-atx-true-rated-non-modular-power-supply   | ₱1,695.00       | 500 Wattage, enough to power the pc                    |
 | Case            |CVS 2506 COMPUTER CASE BLACK WITH 700W PSU MATX NO FANS  | https://www.pcworth.com/product/687f4f48a353?slug=cvs-2506-computer-case-black-with-700w-psu-matx-no-fans    |₱745.00     | fits the psu and the graphics card                       |
 | Case Fans       |COOLMAN 120MM CASE FAN ALL BLACK  |https://www.pcworth.com/product/baa1890d4926?slug=coolman-120mm-case-fan-all-black | ₱210.00| 120mm, 105 price per fan, 2 fans                      |
-| **Total**       |       |                    | 19,948| Within budget                        |
+| **Total**       |       |                    | 19,915| Within budget                        |
 
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
-
+* CPU [Intel Core I3 14100F] - the CPU posseses a LGA17000 socket so we chose H610M-E M.2 V20 DDR4 MATX as our motherboard 
+* CPU COOLER, stock cooler - due to budget constraints we cannot afford an after market CPU cooler since portions of the budget are better
+                             spent elsewhere
+* Motherboard - [H610M-E M.2 V20 DDR4 MATX LGA1700] - the motherboard matches the CPU socket and allows for ddr4 ram and mvme m.2 attachemt                    through its sockets
+* RAM - [PATRIOT SIGNATURE LINE PREMIUM NON-RGB BLACK 8GBX1=8GB 3200MHZ DDR4] - the ram posses a DDR4 socket, it is the reason why it was              chosen, ram is also on the cheaper side due to budget constraints
+* SSD - [LEXAR NM610 PRO NVME 500GB GEN 3] - posses a NVME M.2 form factor which is the SSD slot compatible with the motherboard, the SSD was  
+        also chosen due to its cheap price so that we can follow the budget constraints.
+* GPU - [ASUS GeForce® GT 730 2GB GDDR5 64-bit Graphics Card] - we were able to squeeze in a budget GPU to fulfill the light gaming                    requirement of the build, but due to the GPU being included in the build there were more comprises to be made to subvert the hefty             cost of the GPU, an additional reason why we picked this specific GPU is because it ha sufficient cooling and compared to otehr GPUs           in the current market this GPU has lower clock speed making it much cooler compared to other GPUs.
+* PSU - [MSI MAG A500N-H 500W ATX TRUE RATED NON MODULAR POWER SUPPLY] - a comprimise that had to be made is the PSU, it does not have any             certifications like bronze or gold but it has enough wattage to cover the essential parts, namely the GPU and the CPU who are ussually         the ones that eat the most power
+* Case and Case fans - the case and case fans are pretty cheap and were only chosen so that the whole build can be put in an appropriate                              container 
 ---
 
 ## 5. Budget Analysis
@@ -92,6 +99,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
