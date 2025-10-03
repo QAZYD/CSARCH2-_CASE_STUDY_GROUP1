@@ -73,32 +73,33 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1DqYhfTL8zho84sS
 
 ## 5. Budget Analysis
 - **Budget Limit**: ₱20,000  
-- **Final Total**: ₱19,800 
+- **Final Total**: ₱19,915
 - ✅ Within budget / ❌ Over budget  
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
 
-  From the cost and budget perspective, our findings for the international draft build using PCPartPicker, garnered around $344.91 (~ ₱19,800), which served as our baseline estimate. However, there's a big transition when it comes to our local Manila build findings as the prices were slightly higher with a total of ₱19,948 due to import costs, limited stocks, and vendor markups.
+  From the cost and budget perspective, our findings for the international draft build using PCPartPicker, garnered around $344.91 (~ ₱19, 915), which served as our baseline estimate. However, there's a big transition when it comes to our local Manila build findings as the prices were slightly higher with a total of ₱19,948 due to import costs, limited stocks, and vendor markups.
 
 This lead to making trade-offs in choosing the components such as opting for higher-wattage PSU for future GPU upgrades while limiting RAM and SSD capacity to maintain affordability. From this, we learned that international builds appear cheaper while going for local introduces challenges that changes the perspective of price. 
 
+The build itself is full of compromises due to the low budget but it will still perform at an acceptable level for the task required by the specs
+
 Despite this, our final build remained within the assigned budget, by strategically selecting components that balanced performance and practical cost for an entry-level GPU, a mid-range processor, and locally available storage options.
+
+
 
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
-
+one of the most glaring things we found out during the prototyping and creation of a pc build is the price in western markets, particullarly in the united states are much cheaper by atleast 10 - 30% when converted to ph pricing and because of this limitation most of the parts used in the local build are either dowgrades or substitutions of the orginal prototype build since if we tried to follow the build in pcbuilder we would be way over budget. Another thing to point out is that most of the parts that were used in our build during the prototype cannot be found here locally and due to that most of the parts used in the final build are different from the prototype. What we learned as a group is that system design has a lot of nuances, you can't just pick part a and part b and hope that these 2 parts will work seamlessly, maufactures and part creators have done their job to make sure their parts are streamlined so that it can be compatible with other hardware despite directly communicating with other players in the market, as long as these manufactures follow the standards of the industry their parts should work with most of the popular compoents. SInce the parts in pc building are numeroous it cannot be help that some parts will not work together either they are outdated, come from a different eco system, or just for some odd reason unforseen by part creators that their products won't work with one another. As users of these parts we can avoid getting wrong parts by doing our own research and/or use resources that allow us to prototype builds so that we are sure that the parts that we want to use are compatible with each other. Pre plannig your build is  a requirement if you do not wan't to waste time and money, pre planning allows you to find out what works and what does not work and can also allow you to properly budget your build. 
 ---
 ## 7. Video pitch
 - Your video link here  
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+- https://www.pcworth.com/ 
+-  https://pcx.com.ph/
+- https://pcpartpicker.com/list/kZ72PJ
+
 
 
 
