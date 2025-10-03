@@ -93,12 +93,13 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1DqYhfTL8zho84sS
 one of the most glaring things we found out during the prototyping and creation of a pc build is the price in western markets, particullarly in the united states are much cheaper by atleast 10 - 30% when converted to ph pricing and because of this limitation most of the parts used in the local build are either dowgrades or substitutions of the orginal prototype build since if we tried to follow the build in pcbuilder we would be way over budget. Another thing to point out is that most of the parts that were used in our build during the prototype cannot be found here locally and due to that most of the parts used in the final build are different from the prototype. What we learned as a group is that system design has a lot of nuances, you can't just pick part a and part b and hope that these 2 parts will work seamlessly, maufactures and part creators have done their job to make sure their parts are streamlined so that it can be compatible with other hardware despite directly communicating with other players in the market, as long as these manufactures follow the standards of the industry their parts should work with most of the popular compoents. SInce the parts in pc building are numeroous it cannot be help that some parts will not work together either they are outdated, come from a different eco system, or just for some odd reason unforseen by part creators that their products won't work with one another. As users of these parts we can avoid getting wrong parts by doing our own research and/or use resources that allow us to prototype builds so that we are sure that the parts that we want to use are compatible with each other. Pre plannig your build is  a requirement if you do not wan't to waste time and money, pre planning allows you to find out what works and what does not work and can also allow you to properly budget your build. 
 ---
 ## 7. Video pitch
-- Your video link here  
+- https://youtu.be/m6ScGBwNyaM
 
 ## 8. References
 - https://www.pcworth.com/ 
 -  https://pcx.com.ph/
 - https://pcpartpicker.com/list/kZ72PJ
+
 
 
 
